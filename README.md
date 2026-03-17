@@ -70,7 +70,8 @@ print(output)
 
 ## Output:
 
-<img width="588" height="319" alt="564641261-7e84fc1c-a29f-4ee9-833f-6970b6723b1c" src="https://github.com/user-attachments/assets/2c2041c6-cb91-4e46-8b5c-ca6862e85dc3" />
+<img width="588" height="319" alt="564641261-7e84fc1c-a29f-4ee9-833f-6970b6723b1c" src="https://github.com/user-attachments/assets/72a46a29-782e-474d-bf11-d16d77dfa056" />
+
 
 ## Result:
 The program was successfully executed and verified successfully.
